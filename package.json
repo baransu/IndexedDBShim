@@ -158,7 +158,7 @@
     "node": ">=16.0.0"
   },
   "dependencies": {
-    "canvas": "^2.11.2",
+   
     "eventtargeter": "0.9.0",
     "sync-promise-expanded": "^1.0.0",
     "typeson": "9.0.2",
@@ -166,6 +166,7 @@
     "websql-configurable": "^3.0.3"
   },
   "devDependencies": {
+    "canvas": "^2.11.2",
     "@babel/core": "^7.22.1",
     "@babel/preset-env": "^7.22.4",
     "@brettz9/eslint-plugin": "^1.0.4",
